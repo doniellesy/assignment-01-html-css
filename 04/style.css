@@ -14,7 +14,7 @@ main {
                          "side art aside";
     grid-template-columns: 1fr 4fr 1fr;
     grid-template-rows: 1fr 4fr;
-    /* grid-gap: ; */
+    grid-gap: 5px;
 }
 
 
